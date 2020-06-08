@@ -1,0 +1,62 @@
+.card{
+    width:100%;
+}
+.society_info{
+    margin-top: 20px;
+    width: .5fr;
+    height:.5fr;
+}
+.newentry{
+margin:20px;
+}
+.society-type{
+    display: flex;
+    margin: 10px;
+    justify-content: space-around;
+}
+.fencing{
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+}
+.gatekeeper{
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+}
+.securitylift{
+    display: flex;
+    margin: 10px;
+    justify-content: space-around;
+}
+.vechileparking{
+    
+    display: flex;
+    margin: 10px;
+    justify-content: space-around;
+}
+.register-btn {
+    margin:20px;
+     padding: 15px 25px;
+     font-size: 24px;
+     text-align: center;
+     cursor: pointer;
+     outline: none;
+     color:black;
+     background-color: #4CAF50;
+     border: none;
+     border-radius: 15px;
+     box-shadow: 0 9px #999;
+     width:10%
+     
+   }
+/* .society-type.label1{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.society-type.dropdown{
+    display: flex;
+    justify-content: flex-end;
+} */

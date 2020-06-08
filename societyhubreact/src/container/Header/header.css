@@ -1,0 +1,33 @@
+
+.home{
+display: flex;
+flex-direction: column;
+padding: 5px;
+text-align: center;
+
+
+}
+.signup{
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+}
+.signin{
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+}
+.signout-btn{
+    display: flex;
+    flex-direction: column;
+    text-align: end;}
+.App-header {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    height:100%;
+    padding: 25px;
+  }
+  

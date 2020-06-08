@@ -1,0 +1,38 @@
+
+.frame{
+
+    border:solid ;
+    width: 100;
+    margin: 50px;
+    padding: 20px;
+    color: #000;
+    height: 200%;
+}
+
+.card{
+  width:400px
+}
+.flex{
+  display: flex;
+  margin: 10px;
+  justify-content: space-around;
+}
+.add-icon {
+  height: 2em;
+}
+
+.signout-button {
+   margin:20px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color:black;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    width:10%
+    
+  }

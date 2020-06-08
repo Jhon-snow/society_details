@@ -1,0 +1,34 @@
+
+frame{
+    border:solid darkgrey;
+
+    width: 100;
+    margin: 20px;
+    padding: 20px;
+    color: #000;
+    height: 200%;
+}
+
+.value-holders{
+    width: 90%;
+    color: black;
+    padding: 14px 20px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 4px;
+}
+.signin-button {
+   margin:20px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color:black;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    width:10%
+    
+  }
